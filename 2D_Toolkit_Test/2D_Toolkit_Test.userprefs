@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/u_Scripts/Create_Destroy.js">
+    <Files>
+      <File FileName="Assets/u_Scripts/NPC.js" Line="1" Column="1" />
+      <File FileName="Assets/u_Scripts/Quest.js" Line="23" Column="44" />
+      <File FileName="Assets/u_Scripts/Animation_Controler.cs" Line="44" Column="5" />
+      <File FileName="Assets/u_Scripts/Test_Controller.js" Line="126" Column="3" />
+      <File FileName="Assets/u_Scripts/Intro.js" Line="10" Column="1" />
+      <File FileName="Assets/Plugins/tk2d/Gui/tk2dButton.cs" Line="1" Column="1" />
+      <File FileName="Assets/u_Scripts/Create_Destroy.js" Line="17" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
